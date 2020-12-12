@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: ""
 title: Olly Bee's JAMstack Blog
 paginate: 8
 theme: hugo-PaperMod
