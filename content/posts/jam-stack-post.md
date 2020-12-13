@@ -1,6 +1,6 @@
 ---
 author: Olly Bee
-title: JAMstack blog post example
+title: JAMstack blog post example variation
 date: 2020-12-12
 description: I'm making a blog post about JAMstack, on a JAMstack site!
 tags:
