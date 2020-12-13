@@ -3,8 +3,8 @@ backend:
   branch: master
 
 
-  media_folder: "static"
-  public_folder: "/"
+media_folder: "static"
+public_folder: "/"
 
 collections:
   - label: "Posts"
