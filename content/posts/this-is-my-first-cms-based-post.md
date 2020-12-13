@@ -8,5 +8,6 @@ tags:
   - Netlify
 cover:
   alt: Alt tage for no reason
+  image: /jam.jpg
 ---
 This is the post content. Not a lot to say really - I'm just **testing!**
