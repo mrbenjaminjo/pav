@@ -1,13 +1,15 @@
 ---
-author: "Olly Bee"
-title: "JAMstack blog post example"
-date: "2020-12-12"
-description: "I'm making a blog post about JAMstack, on a JAMstack site!"
-tags: ["JAMstack"]
+author: Olly Bee
+title: JAMstack blog post example
+date: 2020-12-12
+description: I'm making a blog post about JAMstack, on a JAMstack site!
+tags:
+  - JAMstack
 cover:
-    image: "jam.jpg"
-    alt: "JAMstack madness"
-    caption: "We call jelly Jam"
+  image: jam.jpg
+  alt: JAMstack madness
+  caption: We call jelly Jam
+image: /jam.jpg
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways.
