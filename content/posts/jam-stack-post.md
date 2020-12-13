@@ -9,7 +9,7 @@ cover:
   image: jam.jpg
   alt: JAMstack madness
   caption: We call jelly Jam
-image: /jam.jpg
+image: /jamcover.jpg
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways.
