@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: master
+
+
+  media_folder: "static"
+  public_folder: "/"
+
+collections:
+    name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    creat: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Author", name: "author", widget: "hidden", default: "Olly Bee"}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Date", name: "date", widget: "date", required: true}
+      - {label: "Description", name: "description", widget: "string", required: true}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      # - {label: "Cover", name: "cover", widget: "string", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+ 
