@@ -6,5 +6,7 @@ description: Now I've added the NetlifyCMS to the blog to make editing a little 
 tags:
   - JAMstack
   - Netlify
+cover:
+  alt: Alt tage for no reason
 ---
 This is the post content. Not a lot to say really - I'm just **testing!**
