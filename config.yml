@@ -28,6 +28,11 @@ languages:
                   url: tags/
                   weight: 10
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 outputs:
     home:
         - HTML
