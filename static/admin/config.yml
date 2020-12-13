@@ -19,4 +19,10 @@ collections:
       - {label: "Description", name: "description", widget: "string", required: true}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Cover", name: "cover", widget: "image", required: false}
+      - label: "Cover"
+        name: "cover"
+        widget: "object"
+        fields:
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Alt", name: "alt", widger: "string", required: false}
+          - {label: "Caption", name: "caption", widger: "string", required: false}
