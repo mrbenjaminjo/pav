@@ -7,10 +7,10 @@ backend:
   public_folder: "/"
 
 collections:
+  - label: "Posts"
     name: "posts"
-    label: "Posts"
     folder: "content/posts"
-    creat: true
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Author", name: "author", widget: "hidden", default: "Olly Bee"}
