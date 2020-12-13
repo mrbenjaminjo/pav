@@ -6,7 +6,7 @@ description: I'm making a blog post about JAMstack, on a JAMstack site!
 tags:
   - JAMstack
 cover:
-  image: jam.jpg
+  image: /jamcover.jpg
   alt: JAMstack madness
   caption: We call jelly Jam
 image: /jamcover.jpg
